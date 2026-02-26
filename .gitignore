@@ -203,7 +203,7 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-# Databse
+# Database
 simulation.db
 
 # Marimo
