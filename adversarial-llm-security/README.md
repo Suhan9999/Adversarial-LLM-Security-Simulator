@@ -81,32 +81,31 @@ pip install -r requirements.txt
 ## ▶️ Run Simulation
 python main.py
 
-![Debug](docs/debug.png)
-
 ## 📊 Run Dashboard
 streamlit run dashboard/dashboard.py
+```
+![Debug](docs/debug.png)
 
 ## 🎯 Learning Goals
 
-This project explores:
+- LLM adversarial robustness
 
-LLM adversarial robustness
+- AI security evaluation
 
-AI security evaluation
+- Risk modeling systems
 
-Risk modeling systems
+- Clean project architecture
 
-Clean project architecture
+- Monitoring dashboards
 
-Monitoring dashboards
-
-Alerting with emails
+- Alerting with emails
 
 ![Email](docs/attack_email.png)
+
+Project schema:
+![Project_Schema](docs/schemaa.png)
 
 ## ⚠️ Disclaimer
 
 This project is for educational and research purposes only.
 It simulates adversarial behaviors to improve defensive AI systems.
-
-![Project_Schema](docs/schemaa.png)
